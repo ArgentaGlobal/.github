@@ -1,4 +1,4 @@
-# Argenta Global GitHub Profile
+# Argenta Global
 
 Welcome to the Argenta Global GitHub profile! This is the official GitHub presence for Argenta Global, where we test and deploy code. Here, you can explore our repositories, collaborate with our team, and stay up to date with our latest developments.
 
