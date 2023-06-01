@@ -8,6 +8,6 @@ Argenta Global is a leading global contract research organization (CRO) and cont
 
 ## Contact
 
-If you have any questions or would like to reach out to our team, please contact us at [contact@argentaglobal.com](mailto:servicedesk@argentaglobal.com).
+If you have any questions or would like to reach out to our team, please contact us at [servicedesk@argentaglobal.com](mailto:servicedesk@argentaglobal.com).
 
 Thank you for visiting the Argenta Global GitHub profile! We appreciate your interest in our organization and look forward to sharing our innovative projects and solutions with you.
