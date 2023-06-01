@@ -1,6 +1,8 @@
 # Argenta Global GitHub Profile
 
-Welcome to the Argenta Global GitHub profile! This is the official GitHub presence for Argenta Global, where we showcase our organization's projects, contributions, and open-source initiatives. Here, you can explore our repositories, collaborate with our team, and stay up to date with our latest developments.
+Welcome to the Argenta Global GitHub profile! This is the official GitHub presence for Argenta Global, where we test and deploy code. Here, you can explore our repositories, collaborate with our team, and stay up to date with our latest developments.
+
+This repository is meant for Argenta employees, and all commits should be in accordance with organizational policy and stored privately.
 
 ## About Argenta Global
 
